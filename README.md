@@ -1,8 +1,8 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Serbades
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Bagus Setyawan
 
-- 💻 Enthusiastic about mobile & web development especially works related to frontend and backend.
+- 💻 Enthusiastic web development especially works related to frontend and backend.
 
-- 💼 any freelance work? do reach, [email](mailto:sucsfor21@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:bagussetyawan551@gmail.com) :)
 
 
 </br>
