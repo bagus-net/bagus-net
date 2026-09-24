@@ -1,27 +1,45 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Bagus Setyawan
+<!-- ═══════════════ HEADER ═══════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Bagus%20Setyawan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=58&descSize=18" alt="header" /> <div align="center"> <a href="https://github.com/bagus-net"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B7CFF&center=true&vCenter=true&width=640&lines=Hey+there!+%F0%9F%91%8B+I'm+Bagus+Setyawan;Building+web+systems+that+solve+real+problems;Frontend+%2B+Backend+%7C+Laravel+%7C+MySQL;Open+for+freelance+work+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/>
 
-- 💻 Enthusiastic fullstack developer especially works related to frontend and backend.
+<a href="https://bagussetyawan.web.id"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_My_Website-6C63FF?style=for-the-badge&logoColor=white" alt="Website"/></a> <a href="mailto:bagussetyawan551@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/></a>
 
-- 💼 any freelance work? do reach, [email](mailto:bagussetyawan551@gmail.com) :)
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=bagus-net&label=Profile+Views&color=6C63FF&style=flat-square" alt="views" /> <img src="https://img.shields.io/github/followers/bagus-net?label=Followers&style=flat-square&color=8B7CFF" alt="followers" /> </div> <br/>
+👨‍💻 About Me
+<img align="right" width="90" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
+💻 Enthusiastic fullstack developer, working across frontend and backend
+🏢 Building internal systems: complaint management, stock opname, and IT maintenance platforms
+📱 I care about responsive, mobile-first and eye-catching interfaces
+🌐 Portfolio: bagussetyawan.web.id
+💼 Any freelance work? Do reach out via email :)
+<br/>
+🚀 Featured Projects
+Project	Description	Highlights
+📨 Sikomplain	Customer complaint system	Multi-level approval, complex reports, audit trail
+📦 Siopname	Stock opname via phone	Barcode scanning, quick mobile approval, responsive
+🛠️ IT Monitoring & Maintenance	All-in-one IT workflow platform	Ticketing, asset & maintenance, ISO docs, activity log, soft delete
 
-</br>
+🔗 See screenshots and details on my website: bagussetyawan.web.id
 
-### 🤝 &nbsp;Connect with Me
+<br/>
+🛠️ Languages & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,redis,bootstrap,git,github,linux,docker,postman&perline=13" alt="skills" /> </div> <br/>
+🎓 Certifications
+🏅 Mastering Website Development with Laravel 9 — Coding Studio (Jun 2024)
+🏅 Mastering Professional Application Database — Coding Studio (Jun 2024)
+🏅 Fundamental Front-End Web Development 2021 — Coding Studio (Jun 2024)
+🏅 Full-Stack Web Developer: Creative Agency Portfolio 2024 — BuildWithAngga (Mar 2024)
+🏅 Fundamental Course Software Engineering — RevoU (Mar 2023)
+<br/>
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=bagus-net&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=en" alt="stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagus-net&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=en" alt="top langs" /> <br/> <img src="https://streak-stats.demolab.com/?user=bagus-net&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" /> <br/> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bagus-net&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" /> </div> <br/>
+🤝 Connect with Me
+<div align="center">
 
-<p>
-<!-- <a href="#"><img src="https://img.shields.io/badge/-novriamsyah.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/bagus-setyawan-it"><img src="https://img.shields.io/badge/-Bagus%20Setyawan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bagussetyawan551@gmail.com"><img src="https://img.shields.io/badge/-bagussetyawan551@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://www.youtube.com/channel/UCW_jp7PE1owhjYC9Vvq8rYA"><img src="https://img.shields.io/badge/-Serbades-BD081C?style=flat&logo=Youtube&logoColor=white"/></a> -->
-<a href="https://instagram.com/setyawan_bagus_"><img src="https://img.shields.io/badge/-@setyawan_bagus_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/barekzgrogol"><img src="https://img.shields.io/badge/-@bagussetyawan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
+<a href="https://bagussetyawan.web.id"><img src="https://img.shields.io/badge/-Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://linkedin.com/in/bagus-setyawan-it"><img src="https://img.shields.io/badge/-Bagus%20Setyawan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:bagussetyawan551@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/setyawan_bagus_"><img src="https://img.shields.io/badge/-@setyawan__bagus__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://facebook.com/barekzgrogol"><img src="https://img.shields.io/badge/-@bagussetyawan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagus-net&show_icons=true&locale=en&layout=compact" alt="bagus-net" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagus-net&show_icons=true&locale=en" alt="bagus-net" /></p>
+⭐ Thanks for stopping by! If you like my work, feel free to give a star.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagus-net&" alt="bagus-net" /></p>
+</div> <!-- ═══════════════ FOOTER ═══════════════ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
